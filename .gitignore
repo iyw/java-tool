@@ -1,0 +1,8 @@
+/target
+/logs
+/WebContent
+.classpath
+.settings/
+.project/
+/java-tool.i*
+.idea/

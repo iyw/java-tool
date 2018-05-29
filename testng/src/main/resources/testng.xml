@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="dfs-client-java">
+    <test name="encoder">
+        <parameter name="groupName" value="encoder"/>
+        <parameter name="address" value="10.63.255.185:5607"/>
+        <parameter name="maxPoolSize" value="10"/>
+        <parameter name="minPoolSize" value="2"/>
+        <classes>
+            <class name="com.httpds.testng.BastTest">
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.httpds.testng.TestNGReporterListener"/>
+    </listeners>
+</suite>
