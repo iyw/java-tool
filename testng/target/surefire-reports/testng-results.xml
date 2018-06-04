@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="dfs-client-java" duration-ms="578" started-at="2018-06-03T04:47:39Z" finished-at="2018-06-03T04:47:39Z">
+    <groups>
+    </groups>
+    <test name="common" duration-ms="578" started-at="2018-06-03T04:47:39Z" finished-at="2018-06-03T04:47:39Z">
+      <class name="com.httpds.testng.BastTest">
+        <test-method status="PASS" signature="autoTest()[pri:0, instance:com.httpds.testng.BastTest@5d7ca698]" name="autoTest" duration-ms="561" started-at="2018-06-03T04:47:39Z" finished-at="2018-06-03T04:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.httpds.testng.BastTest@5d7ca698]" name="test" duration-ms="0" started-at="2018-06-03T04:47:39Z" finished-at="2018-06-03T04:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.httpds.testng.BastTest -->
+    </test> <!-- common -->
+  </suite> <!-- dfs-client-java -->
+</testng-results>
