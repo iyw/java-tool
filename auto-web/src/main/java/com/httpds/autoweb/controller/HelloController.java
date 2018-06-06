@@ -14,6 +14,7 @@ public class HelloController {
         Map<String, Object> map = new HashMap<>();
         map.put("status", 0);
         map.put("result", "success");
+	map.put("data":"tanyawen");
         return map;
     }
 }
