@@ -30,7 +30,7 @@ public class BastTest {
     @Test
     public void autoTest() throws IOException {
         CloseableHttpClient httpClient = HttpClients.createDefault();
-        HttpPost post = new HttpPost("http://localhost:8081/save");
+        HttpPost post = new HttpPost("http://localhost:8084/hello/get");
         // 准备请求参数和期望值(实际情况从数据库中获取)
         // 期望值
         Map<String, Object> expectMap = new HashMap<>();

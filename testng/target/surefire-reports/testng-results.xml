@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="dfs-client-java" duration-ms="578" started-at="2018-06-03T04:47:39Z" finished-at="2018-06-03T04:47:39Z">
+  <suite name="dfs-client-java" duration-ms="472" started-at="2018-06-06T15:30:27Z" finished-at="2018-06-06T15:30:27Z">
     <groups>
     </groups>
-    <test name="common" duration-ms="578" started-at="2018-06-03T04:47:39Z" finished-at="2018-06-03T04:47:39Z">
+    <test name="common" duration-ms="472" started-at="2018-06-06T15:30:27Z" finished-at="2018-06-06T15:30:27Z">
       <class name="com.httpds.testng.BastTest">
-        <test-method status="PASS" signature="autoTest()[pri:0, instance:com.httpds.testng.BastTest@5d7ca698]" name="autoTest" duration-ms="561" started-at="2018-06-03T04:47:39Z" finished-at="2018-06-03T04:47:39Z">
+        <test-method status="PASS" signature="autoTest()[pri:0, instance:com.httpds.testng.BastTest@56afdf9a]" name="autoTest" duration-ms="454" started-at="2018-06-06T15:30:27Z" finished-at="2018-06-06T15:30:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- autoTest -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.httpds.testng.BastTest@5d7ca698]" name="test" duration-ms="0" started-at="2018-06-03T04:47:39Z" finished-at="2018-06-03T04:47:39Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.httpds.testng.BastTest@56afdf9a]" name="test" duration-ms="0" started-at="2018-06-06T15:30:27Z" finished-at="2018-06-06T15:30:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
